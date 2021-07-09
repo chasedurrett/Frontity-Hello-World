@@ -14,3 +14,4 @@ const Post = ({ state }) => {
 };
 
 export default connect(Post);
+ 
